@@ -35,7 +35,7 @@
     "graphql": "^16.7.1",
     "graphql-scalar": "^0.1.0",
     "graphql-scalars": "^1.22.2",
-    "graphql-ws": "^5.14.0",
+    "graphql-ws": "^6.0.8",
     "jsonwebtoken": "^9.0.0",
     "passport": "^0.7.0",
     "passport-42": "^1.2.6",
