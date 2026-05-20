@@ -53,7 +53,7 @@ export class FortyTwoStrategy extends PassportStrategy(Strategy, '42') {
             name,
             oauthProvider: profile.provider,
             oauthId: profile.id,
-            avatar: this.default_avatar,
+            avatar: new Uint8Array(this.default_avatar),
           },
         });
       }
