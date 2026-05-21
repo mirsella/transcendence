@@ -24,7 +24,7 @@
   "dependencies": {
     "@apollo/server": "^5.5.1",
     "@nestjs/apollo": "^13.4.1",
-    "@nestjs/common": "^11.1.21",
+    "@nestjs/common": "^11.1.22",
     "@nestjs/core": "^11.1.21",
     "@nestjs/graphql": "^13.4.1",
     "@nestjs/jwt": "^11.0.2",
