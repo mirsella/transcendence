@@ -18,7 +18,7 @@
     "graphql-scalars": "^1.25.0",
     "pinia": "^3.0.4",
     "pinia-plugin-persistedstate": "^4.7.1",
-    "socket.io-client": "^4.7.2",
+    "socket.io-client": "^4.8.3",
     "vue": "^3.3.4",
     "vue-router": "^5.0.7",
     "vue3-toastify": "^0.2.9"
